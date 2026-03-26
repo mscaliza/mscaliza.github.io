@@ -6,7 +6,8 @@
         "noticia_titulo": "Doméstica morre após agressões de companheiro em SP",
         "noticia_url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/03/24/tecnica-em-enfermagem-morre-apos-agressoes-de-companheiro-na-zona-leste-de-sp-caso-e-investigado-como-feminicidio.ghtml",
         "vitima_nome": "Simone Aparecida da Silva",
-        "vitima_idade": "42 anos"
+        "vitima_idade": "42 anos",
+        "vitima_foto": "https://mscaliza.github.io/vitima_menor.png"
       }
     ]
   },
@@ -17,7 +18,8 @@
         "noticia_titulo": "Jovem é morta pelo namorado em Goiás após pedir para ver o celular dele",
         "noticia_url": "https://www.estadao.com.br/brasil/jovem-morta-pelo-namorado-apos-pedir-para-ver-celular-dele-diz-policia-npr/",
         "vitima_nome": "Raiane (Sobrenome não divulgado)",
-        "vitima_idade": "Não informada"
+        "vitima_idade": "Não informada",
+        "vitima_foto": "https://mscaliza.github.io/vitima_menor.png"
       }
     ]
   },
@@ -28,7 +30,8 @@
         "noticia_titulo": "Mulher é morta com 5 facadas pelo ex-marido no interior de SP",
         "noticia_url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/03/20/mulher-e-assassinada-no-interior-de-sp-suspeito-do-crime-e-preso.ghtml",
         "vitima_nome": "Jocasta de Jesus Olivato",
-        "vitima_idade": "38 anos"
+        "vitima_idade": "38 anos",
+        "vitima_foto": "https://mscaliza.github.io/vitima_menor.png"
       }
     ]
   },
@@ -39,7 +42,8 @@
         "noticia_titulo": "Mulher é assassinada a facadas em Esteio; RS chega a 23 casos em 2026",
         "noticia_url": "https://gauchazh.clicrbs.com.br/seguranca/noticia/2026/03/mulher-e-assassinada-a-facadas-em-esteio-rs-chega-a-23-casos-de-feminicidio-em-2026-cmmuxoiki00dj01l39vtz7hwr.html",
         "vitima_nome": "Daiane Rosa Zastrow",
-        "vitima_idade": "39 anos"
+        "vitima_idade": "39 anos",
+        "vitima_foto": "https://mscaliza.github.io/vitima_menor.png"
       }
     ]
   },
@@ -50,7 +54,8 @@
         "noticia_titulo": "Mulher é morta a facadas em Camaquã, e RS registra o 22º feminicídio de 2026",
         "noticia_url": "https://www.ihu.unisinos.br/categorias/663519-mulher-e-morta-a-facadas-em-camaqua-e-rs-registra-o-22-feminicidio-de-2026",
         "vitima_nome": "Angélica Ines Strelow",
-        "vitima_idade": "28 anos"
+        "vitima_idade": "28 anos",
+        "vitima_foto": "https://mscaliza.github.io/vitima_menor.png"
       }
     ]
   },
@@ -61,13 +66,15 @@
         "noticia_titulo": "São Paulo registra feminicídio na Zona Leste no Dia Internacional da Mulher",
         "noticia_url": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/sao-paulo-registra-feminicidio-no-dia-internacional-da-mulher",
         "vitima_nome": "Nome não divulgado",
-        "vitima_idade": "44 anos"
+        "vitima_idade": "44 anos",
+        "vitima_foto": "https://mscaliza.github.io/vitima_menor.png"
       },
       {
         "noticia_titulo": "Mulher é morta a facadas pelo companheiro em Praia Grande",
         "noticia_url": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/sao-paulo-registra-feminicidio-no-dia-internacional-da-mulher",
         "vitima_nome": "Nome não divulgado",
-        "vitima_idade": "40 anos"
+        "vitima_idade": "40 anos",
+        "vitima_foto": "https://mscaliza.github.io/vitima_menor.png"
       }
     ]
   }
